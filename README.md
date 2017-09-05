@@ -15,10 +15,10 @@ Live server
 
 What you need?
 
-Node js/ NPM
-Grunt client (grunt-cli)
-Grunt node package
-Grunt plugins
+Node js/ NPM,
+Grunt client (grunt-cli),
+Grunt node package,
+Grunt plugins,
 Grunt configuration - JS file (gruntfile.js)
 
 
