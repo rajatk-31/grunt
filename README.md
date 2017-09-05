@@ -5,11 +5,11 @@ Grunt is a JavaScript task runner, a tool used to automatically perform frequent
 
 General Tasks:-
 
-Minify
-Uglify
-Concat
-Copy
-Watch
+Minify,
+Uglify,
+Concat,
+Copy,
+Watch,
 Live server
 
 
