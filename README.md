@@ -5,12 +5,18 @@ Grunt is a JavaScript task runner, a tool used to automatically perform frequent
 
 General Tasks:-
 
-Minify,
-Uglify,
-Concat,
-Copy,
-Watch,
-Live server
+Minify:- Minify the code by removing the spaces and extra irrelative things.
+
+
+Uglify:- Minify and changes the name of parameters and variables.
+
+Concat:- Join to files or folders.
+
+Copy:- copy content from one place to another.
+
+Watch:- keep an eye on the changes in gulp files and implements them as soon as the file is saved without need to restart the server.
+
+Live Server/ Connect:-  To create a static web server
 
 
 What you need?
